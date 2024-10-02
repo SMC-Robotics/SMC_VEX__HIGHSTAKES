@@ -19,6 +19,7 @@ vex::brain       Brain;
 int main() {
 
     Brain.Screen.printAt( 10, 50, "Hello V5" );
+    Brain.Screen.printAt( 10, 50, "Hello FROM DEV" );
    
     while(1) {
         
